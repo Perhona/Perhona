@@ -36,9 +36,9 @@ Here are some ideas to get you started:
  
 
  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Perhona&show_icons=true&theme=radical)<!--
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=perhona)](https://solved.ac/perhona) -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Perhona&show_icons=true&theme=radical)
+
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=perhona)](https://solved.ac/perhona)
 <!--
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPerhona&count_bg=%23A0A0A0&title_bg=%231DBBF2&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)-->
  </div>
