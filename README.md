@@ -32,16 +32,24 @@ Here are some ideas to get you started:
 
 
 ## 🔗Contacts
- <!-- <a href="https://velog.io/@perhona3422"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=ffffff"/> -->  <a href="mailto:perhona@kakao.com"><img src="https://img.shields.io/badge/perhona@kakao.com-FFCD00?style=flat&logo=Gmail&logoColor=white"/>
+ <!-- <a href="https://velog.io/@perhona3422"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=ffffff"/> -->  
+ <a href="mailto:perhona@kakao.com"><img src="https://img.shields.io/badge/perhona@kakao.com-FFCD00?style=flat&logo=Gmail&logoColor=white"/>
  
+## ⚡Projects
+| 프로젝트명            | 기간                     | 기술 스택                                           |
+|:---------------------:|:---------------------------:|:---------------------------------------------------:|
+| **[GIS 기반 맛집 추천 서비스](https://github.com/Perhona/matzip_rec)** | 2024.08.27 ~ 2024.09.02     | Java17, SpringBoot3.2.8, Gradle, MySQL, JPA, Redis, AWS        |
+| **[SNS 통합 피드 서비스, feedlink](https://github.com/Perhona/feedlink)** | 2024.08.20 ~ 2024.08.26     | Java17, SpringBoot3.2.8, Gradle, MySQL, JPA, Redis, AWS        |
+| **사내 프로젝트**      | 2022.10.19 ~ 2023.11.30 | Java8, SpringBoot2.7.x, Maven, MariaDB, MyBatis, Thymeleaf, AWS EC2, Ubuntu, Nginx, Jenkins, Git |
+| **[국비 IT 교육 수강생을 위한 커뮤니티, GUKBIT](https://github.com/Perhona/GUKBIT)** | 2022.03.28 ~ 2022.05.24     | Java11, SpringBoot, JPA, Thymeleaf, AWS           |
 
 
-<!-- 
+ <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Perhona&show_icons=true&theme=radical)
 
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=perhona)](https://solved.ac/perhona)
--->
-<!--
+
+
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPerhona&count_bg=%23A0A0A0&title_bg=%231DBBF2&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)-->
  </div>
